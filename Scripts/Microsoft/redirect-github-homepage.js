@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Redirect GitHub
 // @description  Redirect GitHub homepage to user overview
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/dewhurstwill/tamper-monkey-scripts/blob/main/Scripts/Microsoft/redirect-github-homepage.js
+// @version      0.2
 // @author       Will Dewhurst
 // @match        https://github.com
 // @icon         https://www.google.com/s2/favicons?domain=github.com
