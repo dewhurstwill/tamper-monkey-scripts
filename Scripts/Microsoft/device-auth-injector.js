@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Inject Device Auth OTP
 // @description  Injects the query parameter value of otp into the field with the ID of otc
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dewhurstwill/tamper-monkey-scripts/blob/main/Scripts/Microsoft/device-auth-injector.js
 // @version      0.3
 // @author       Will Dewhurst
 // @include      https://login.microsoftonline.com/common/oauth2/deviceauth?otp=*
