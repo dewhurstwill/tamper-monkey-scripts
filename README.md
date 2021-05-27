@@ -1,1 +1,1 @@
-# tamper-monkey-scripts
+# My Tamper Monkey Scripts Library
