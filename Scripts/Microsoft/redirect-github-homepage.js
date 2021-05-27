@@ -13,7 +13,7 @@
 // https://github.com/# will take you to the github homepage
 (function() {
     'use strict';
-    const username = 'dewhurstwill'
+    const username = 'YOUR GITHUB USERNAME'
     if (!(window.location.href.includes('/#'))) {
       window.location.href = `https://github.com/${username || '#'}`;
     }
