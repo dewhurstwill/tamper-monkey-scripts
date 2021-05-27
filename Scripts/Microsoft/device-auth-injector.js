@@ -13,6 +13,9 @@
     'use strict';
     setTimeout(function(){
         document.getElementById('otc').value = window.location.search.split('=')[1];
-        document.getElementById('idSIButton9').click();
+        setTimeout(function(){
+            document.getElementById('i5528').submit();
+        }, 500);
     }, 500);
+
 })();
